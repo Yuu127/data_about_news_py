@@ -15,7 +15,7 @@ Mssv: K205480106054
   Thời gian đăng tin tức
   
 -> Chưa phân tích sâu 
-- Sp: Dùng để tổng hợp số bài đăng trên 1 nguồn đăng tải tin tức
+- Sp: Dùng để tổng hợp số bài đăng trên từng nguồn đăng tải tin tức
 
 2. Sử dụng Fastapi để lấy dữ liệu từ API cung cấp dữ liệu về tin tức từ nhiều nguồn khác nhau.
    
