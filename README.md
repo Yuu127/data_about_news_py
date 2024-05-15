@@ -7,10 +7,14 @@ Mssv: K205480106054
 1. Cơ sở dữ liệu
 - Bảng 1:
   Lưu tên nguồn đăng tải tin tức
+  
   Tên tác giả
+  
   Tiêu đề tin tức
+  
   Thời gian đăng tin tức
--> Chưa phân tích sâu ạ
+  
+-> Chưa phân tích sâu 
 - Sp: Dùng để tổng hợp số bài đăng trên 1 nguồn đăng tải tin tức
 
 2. Sử dụng Fastapi để lấy dữ liệu từ API cung cấp dữ liệu về tin tức từ nhiều nguồn khác nhau.
