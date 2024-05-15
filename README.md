@@ -22,8 +22,6 @@ Mssv: K205480106054
 - Biểu đồ biểu diễn số lượng tin tức từ từng nguồn đăng tải tin tức ( dạng biểu đồ hình tròn )
 
 5. Công nghệ sử dụng:
-- Python + FastAPI
-- Node-red
-- Database: MSSQL
-- HTML, CSS, JS
-  
+- Backend: python, fastapi, nodered, asp.net
+- Database: sql server
+- Frontend: HTML, JQUERY, CSS, Google Chart
